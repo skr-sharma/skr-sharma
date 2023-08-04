@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/skr-sharma?tab=repositories)
 - 🧧 My [Resume ]()
-- Connect with me via [Linkedin](www.linkedin.com/in/shankar-sharma-5a0461143)
+- Connect with me via [Linkedin](https://www.linkedin.com/in/shankar-sharma-5a0461143/)
 
 
 <h3 align="left">Languages and Tools:</h3>
